@@ -1,0 +1,6 @@
+@Clase7.EF.Web_HostAddress = http://localhost:5097
+
+GET {{Clase7.EF.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
