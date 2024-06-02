@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Clase7.EF.Data\Clase7.EF.Data.csproj" />
+  </ItemGroup>
+
 </Project>
